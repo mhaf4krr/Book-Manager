@@ -1,0 +1,60 @@
+* {box-sizing: border-box;}
+
+.container{
+   width:auto;
+   height:auto;
+   text-align: center;
+   padding-top: 3%;
+   background: rgb(159, 230, 159);
+ 
+}
+
+form input,label{
+   margin-top:2%;
+   font-size: 1.3rem;
+}
+
+bordered {
+   border-bottom: 1px solid #000;
+}
+
+.table-main{
+margin-top:5%;
+}
+
+table{
+   margin:0 auto;
+}
+
+th{
+ padding:0 50px;
+ font-size: 1.5rem;
+}
+
+td {
+   font-size: 1.3rem;
+   padding:10px 15px;
+}
+
+tr{
+   
+   padding:3px 0;
+   
+}
+
+.cta-green{
+   background:rgb(122, 211, 122);
+   color:green;
+}
+
+.cta-red{
+   background: rgb(250, 115, 115);
+   color:red;
+}
+
+#result-div{
+   margin-top:30px;
+   height:60px;
+   width:100%;
+   
+}
